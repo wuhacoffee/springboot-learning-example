@@ -12,6 +12,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class QuickStartApplication {
     public static void main(String[] args) {
         SpringApplication.run(QuickStartApplication.class, args);
-        System.out.print("test>>>>>>aaa");
+        System.out.print("test>>>>>>");
     }
 }
